@@ -29,6 +29,20 @@ Try the application online:
 - 💬 Data Q&A
 - 📥 Download filtered data
 
+## 📸 Screenshots
+
+### 📊 Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard.png)
+
+### 📈 Sales Analysis
+
+![Sales Analysis](screenshots/sales-analysis.png)
+
+### 💡 Business Insights
+
+![Business Insights](screenshots/business-insights.png)
+
 ## 🛠️ Technologies
 
 - Python

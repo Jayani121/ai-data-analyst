@@ -2,6 +2,12 @@
 
 An interactive data analytics dashboard for exploring CSV datasets and generating business insights.
 
+## 🌐 Live Demo
+
+Try the application online:
+
+[AI Data Analyst - Live Demo](https://ai-data-analyst-dapxcg5nqweivcj34z3ifu.streamlit.app/)
+
 ## 🚀 Features
 
 - 📁 CSV file upload
